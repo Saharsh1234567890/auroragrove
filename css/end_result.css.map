@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IAAI;EACA,gBAAgB,EAAE,KAAK",
+"sources": ["../scss/custom.scss"],
+"names": [],
+"file": "end_result.css"
+}
